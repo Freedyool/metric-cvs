@@ -2,7 +2,6 @@
 
 ```
     mv dist {tomcat_root_path}/webapps
-  
 ```
 
 打开浏览器：localhost:8080/dist/
